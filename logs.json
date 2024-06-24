@@ -1,0 +1,18 @@
+[
+  {
+    "id": "L001",
+    "timestamp": "2024-06-24T06:24:57.668010",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L002",
+    "timestamp": "2024-06-24T06:25:21.775253",
+    "level": "ERROR",
+    "component": "asset_management",
+    "message": "Invalid asset details provided by admin None",
+    "user_id": null
+  }
+]

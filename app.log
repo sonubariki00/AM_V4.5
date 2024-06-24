@@ -1,0 +1,45 @@
+2024-06-24 06:43:51,694 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-24 06:43:51,694 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-24 06:43:51,713 - INFO -  * Restarting with stat
+2024-06-24 06:43:52,643 - WARNING -  * Debugger is active!
+2024-06-24 06:43:52,659 - INFO -  * Debugger PIN: 685-737-841
+2024-06-24 06:43:55,700 - INFO -  * Detected change in 'e:\\New folder\\Asset management\\AM_V4.3\\Server\\log_manager.py', reloading
+2024-06-24 06:43:55,776 - INFO -  * Restarting with stat
+2024-06-24 06:43:56,690 - WARNING -  * Debugger is active!
+2024-06-24 06:43:56,701 - INFO -  * Debugger PIN: 685-737-841
+2024-06-24 06:44:12,486 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-24 06:44:12,486 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-24 06:44:12,501 - INFO -  * Restarting with stat
+2024-06-24 06:44:13,431 - WARNING -  * Debugger is active!
+2024-06-24 06:44:13,446 - INFO -  * Debugger PIN: 685-737-841
+2024-06-24 06:45:59,982 - INFO -  * Detected change in 'e:\\New folder\\Asset management\\AM_V4.3\\Server\\app.py', reloading
+2024-06-24 06:46:00,081 - INFO -  * Restarting with stat
+2024-06-24 06:46:00,833 - WARNING -  * Debugger is active!
+2024-06-24 06:46:00,850 - INFO -  * Debugger PIN: 685-737-841
+2024-06-24 06:46:13,744 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-24 06:46:13,744 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-24 06:46:13,755 - INFO -  * Restarting with stat
+2024-06-24 06:46:14,635 - WARNING -  * Debugger is active!
+2024-06-24 06:46:14,652 - INFO -  * Debugger PIN: 685-737-841
+2024-06-24 06:50:37,820 - INFO -  * Detected change in 'e:\\New folder\\Asset management\\AM_V4.3\\Server\\app.py', reloading
+2024-06-24 06:50:37,920 - INFO -  * Restarting with stat
+2024-06-24 06:54:08,143 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-24 06:54:08,143 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-24 06:54:08,154 - INFO -  * Restarting with stat
+2024-06-24 06:54:08,883 - WARNING -  * Debugger is active!
+2024-06-24 06:54:08,899 - INFO -  * Debugger PIN: 685-737-841
+2024-06-24 07:17:44,715 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-24 07:17:44,715 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-24 07:17:44,725 - INFO -  * Restarting with stat
+2024-06-24 07:17:45,530 - WARNING -  * Debugger is active!
+2024-06-24 07:17:45,547 - INFO -  * Debugger PIN: 685-737-841
+2024-06-24 07:18:58,463 - INFO - 127.0.0.1 - - [24/Jun/2024 07:18:58] "GET / HTTP/1.1" 200 -
+2024-06-24 07:18:58,646 - INFO - 127.0.0.1 - - [24/Jun/2024 07:18:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-24 07:19:07,664 - INFO - 127.0.0.1 - - [24/Jun/2024 07:19:07] "[33mGET /api/ HTTP/1.1[0m" 404 -
+2024-06-24 07:19:12,081 - INFO - 127.0.0.1 - - [24/Jun/2024 07:19:12] "GET /api HTTP/1.1" 200 -
+2024-06-24 07:19:21,757 - INFO - 127.0.0.1 - - [24/Jun/2024 07:19:21] "[31m[1mGET /api/login HTTP/1.1[0m" 405 -
